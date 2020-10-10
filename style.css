@@ -8,6 +8,8 @@
 }
 body{
     background-image: url('img/cat.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     font-family: 'Piazzolla', serif;
     color: white;
     

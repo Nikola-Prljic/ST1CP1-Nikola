@@ -1,0 +1,31 @@
+.all{
+    margin: auto;
+    width: 800px;
+    text-align: center;
+    
+    
+    
+}
+body{
+    background-image: url('img/cat.jpg');
+    font-family: 'Piazzolla', serif;
+    color: white;
+    
+}
+.hero{
+    width: auto;
+    height: 200px;
+}
+
+.center{
+    font-size: 50px;
+    margin: -150px;
+}
+p{
+    font-size: 18px;
+    color:rgb(192, 192, 192);
+}
+h1{
+    font-size: 80px;
+    font-weight: bold;
+}
